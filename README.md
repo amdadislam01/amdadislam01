@@ -10,3 +10,12 @@ I’m a passionate Computer Science student and an aspiring Web Developer from B
 
 📫 Contact me: amdad200063@gmail.com or https://www.facebook.com/amdadislam20063
 
+
+### 🏆 Achievements
+
+- 🥇 **Completed Full Web Development Bootcamp**
+- 🚀 **Built 10+ Real-World Projects**
+- 🌐 **Created a Live Portfolio Website**
+- 🏫 **Studying Diploma in CSE from National Polytechnic Institute**
+- 🎯 **Started Learning Full Stack Development (PHP + JS + MySQL)**
+- 🧑‍💻 **Daily GitHub Contributions Since 2025**
