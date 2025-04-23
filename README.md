@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Amdad Islam
 
-🚀 About Me
+# 🚀 About Me
 
 I’m a passionate Computer Science student and an aspiring Web Developer from Bangladesh 🇧🇩. I enjoy learning new technologies, building web applications, and turning ideas into digital realities.
 
