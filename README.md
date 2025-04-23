@@ -1,4 +1,4 @@
-# MD. Amdad Islam
+# 👋 Hi there, I'm Amdad Islam
 
 MD. Amdad Islam is a passionate Computer Science student and an aspiring digital creator with a strong enthusiasm for technology and innovation. Born on March 17, 2006, in Barishal, Bangladesh, he has devoted himself to exploring the fields of software engineering, web
 development, and cutting-edge technologies. His dedication to learning and growing in the tech world reflects his ambition to make meaningful contributions to the industry.
@@ -17,6 +17,12 @@ MD. Amdad Islam currently resides in Dhaka, Bangladesh, where he continues to pu
 Amdad envisions a future as a successful web developer, driven by his passion for creating impactful digital solutions. His ultimate goal is to design and develop innovative web applications that not only meet user needs but also enrich lives by solving real-world problems. With an insatiable curiosity and determination, he continuously immerses himself in the dynamic world of web technologies, staying abreast of the latest advancements and trends.
 
 Amdad’s aspirations are fueled by his desire to make meaningful contributions to the tech industry. He is committed to honing his skills, exploring new tools and frameworks, and embracing challenges as opportunities for growth. By combining creativity, technical expertise, and a user-centric approach, Amdad aims to leave a lasting mark in the field of web development and inspire others through his work.
+
+🔭 Currently working on: Personal Projects & Real-time Web Apps
+
+🌱 Learning: Html, Css, Bootstrap, JavaScript, NodeJS, PHP, React, MySQL
+
+📫 Contact me: amdad200063@gmail.com
 
 # Personal Interests
 
