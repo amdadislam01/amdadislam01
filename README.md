@@ -10,5 +10,4 @@ I’m a passionate Computer Science student and an aspiring Web Developer from B
 
 📫 Contact me: amdad200063@gmail.com or https://www.facebook.com/amdadislam20063
 
-🧰 Languages & Tools:
-javascript react redux nextjs  html5 css3 styled-components material-ui nodejs expressjs mongodb git npm heroku postman postman github
+
