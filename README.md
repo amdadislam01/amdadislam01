@@ -1,5 +1,5 @@
 
-<h3 align="center">Assalamu Alaikum 👋, I'm Amdad Islam</h3>
+ <h1 align="center">Assalamu Alaikum 👋, I'm Amdad Islam</h1>
 
 <p align="center">
   <a href="https://github.com/amdadislam01" target="_blank">
