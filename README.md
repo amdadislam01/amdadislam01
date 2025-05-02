@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdadislam01&layout=compact&theme=dark" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdadislam01&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="45%"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amdadislam01&theme=onedark&no-frame=true&row=1&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amdadislam01&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -89,11 +89,6 @@
 
 ##  My Projects:
 Check the pinned repositories below. 👇
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=How+much+to+love+code+%3F;100%25+%E2%9D%A4%EF%B8%8F;Code+is+Life+%F0%9F%92%BB;Happy+Coding+%F0%9F%98%8A" alt="Typing SVG" />
-</p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amdadislam01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
