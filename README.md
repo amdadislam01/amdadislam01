@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+👋;I'm+Amdad+Islam" alt="Typing SVG">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer" alt="Typing SVG">
+</p>
 
 <p align="center">
   <a href="https://github.com/amdadislam01" target="_blank">
@@ -102,9 +105,12 @@
 ##  My Projects:
 Check the pinned repositories below. 👇
 
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amdadislam01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
   <a href="https://github.com/amdadislam01?tab=followers">
     <img src="https://img.shields.io/github/followers/amdadislam01?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
 </p>
+
