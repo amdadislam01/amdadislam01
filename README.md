@@ -106,7 +106,7 @@
 ---
 
 ##  My Projects:
-Check the pinned repositories below. 👇
+Check the pinned repositories below  👇
 
 
 
