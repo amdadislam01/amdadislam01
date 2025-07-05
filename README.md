@@ -30,7 +30,7 @@
 
 ##  👨🏼‍💻 I'm a Full stack web Developer
 
-<img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif" height="170px" align="right" />
+<img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif" height="170px" align="right"/>
 
  - 🌱 Busy building new things
  - 👯 I’m looking for job & internships opportunities.
