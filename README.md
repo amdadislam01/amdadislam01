@@ -32,7 +32,7 @@
 
 <img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif" height="170px" align="right" />
 
- - 🌱 Busy building new things
+ - 🌱 Busy building new thing
  - 👯 I’m looking for job & internships opportunities.
  - 💬 Ask me about JavaScript ♥, React, Next.js & Node.js
  - 🥅 2025 Goals: Get a new job, start mentorship for absolute beginner's & do some Freelancing.
