@@ -30,7 +30,7 @@
 
 ## 👨🏼‍💻 I'm a Full stack web Developer
 
-<img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif" width="250px" align="right" style="border-radius: 10px;"/>
+<img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif" width="260px" align="right"/>
 
 
 
