@@ -106,7 +106,7 @@
 ---
 <!-- My project link Bio -->
 ##  My Projects:
-Check the pinned repositorie below   👇
+Check the pinned repositories below   👇
 
 
 
