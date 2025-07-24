@@ -35,7 +35,10 @@
 🔹 Building performant, responsive UIs with **Modern React**  
 🔹 Exploring **advanced state management** solutions  
 🔹 Implementing **accessibility** best practices  
-🔹 Optimizing **web performance** metrics
+🔹 Optimizing **web performance** metrics  
+🔹 Mastering **TypeScript** for scalable frontend architecture  
+🔹 Developing **full-stack capabilities** with Next.js API routes  
+🔹 Contributing to **open-source** frontend projects
 
 
 
