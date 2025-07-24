@@ -115,6 +115,9 @@ Check the pinned repositories below   👇
   <a href="https://github.com/amdadislam01?tab=followers">
     <img src="https://img.shields.io/github/followers/amdadislam01?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
+  <a href="https://github.com/amdadislam01/amdadislam01">
+    <img src="https://img.shields.io/github/stars/amdadislam01?style=social" alt="GitHub Stars"/>
+  </a>
 </p>
 
 
