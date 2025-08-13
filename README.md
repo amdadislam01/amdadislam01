@@ -71,18 +71,18 @@
 
 <p align="center">
  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amdadislam01&theme=react-dark&hide_border=true&area=true&bg_color=000000" width="55%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amdadislam01&theme=react-dark&hide_border=true&area=true" width="55%"/>
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdadislam01&layout=compact&theme=radical&hide_border=true&bg_color=000000&langs_count=6" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdadislam01&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6" width="40%"/>
 </p>
 
 <p align="center">
   <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=amdadislam01&show_icons=true&theme=radical&hide_border=true&bg_color=000000&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amdadislam01&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&include_all_commits=true" width="48%"/>
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amdadislam01&theme=radical&hide_border=true&background=000000&stroke=FF69B4" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amdadislam01&theme=radical&hide_border=true&background=00000000&stroke=FF69B4" width="48%"/>
 </p>
 
 ---
