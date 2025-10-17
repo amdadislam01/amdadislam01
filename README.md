@@ -15,7 +15,7 @@
   <a href="https://x.com/amdad_vai__01" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://amdadislam.netlify.app/" target="_blank">
+  <a href="https://amdadislam-01.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
   <a href="mailto:amdad20063@gmail.com" target="_blank">
