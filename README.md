@@ -1,5 +1,8 @@
 <p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=180&section=header&text=Md%20Amdad%20Islam&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+👋;I'm+Amdad+Islam" alt="Typing SVG">
+</br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
 </p>
 
 <p align="center" style="background-color: #000000;">
