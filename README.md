@@ -6,7 +6,7 @@
 </p>
 
 <p align="center" style="background-color: #000000;">
-  <a href="https://amdadislam.vercel.app/" target="_blank">
+  <a href="https://www.amdadislam.me" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5400?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/amdadislam01/" target="_blank">
