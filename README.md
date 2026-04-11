@@ -21,26 +21,30 @@
   <a href="https://leetcode.com/u/amdadislam01/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="mailto:amdad20063@gmail.com" target="_blank">
+  <a href="mailto:amdadislam733@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <div style="background-color: #000000; padding: 10px; border-radius: 5px;">
 
-## 👨🏼‍💻 I'm a MERN Stack Developer
+## 👨🏼‍💻 I'm a Full Stack Developer
 
-<img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif" width="260px" align="right"/>
+<img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif" width="280px" align="right"/>
 
-🔹 Building performant, responsive UIs with **Modern React**  
-🔹 Exploring **advanced state management** solutions  
-🔹 Implementing **accessibility** best practices  
-🔹 Optimizing **web performance** metrics  
-🔹 Mastering **TypeScript** for scalable frontend architecture  
-🔹 Developing **full-stack capabilities** with Next.js API routes  
-🔹 Contributing to **open-source** frontend projects
+<ul>
+  <li>Building scalable web applications using Next.js, React, and Node.js</li>
+  <li>Designing and managing databases with MongoDB / Mongoose</li>
+  <li>Developing secure and efficient REST APIs</li>
+  <li>Implementing authentication & authorization (JWT, NextAuth)</li>
+  <li>Creating responsive, modern UIs with Tailwind CSS</li>
+  <li>Optimizing performance across both frontend and backend</li>
+  <li>Deploying and maintaining applications using Vercel / cloud platforms</li>
+</ul>
 
 </div>
+
+
 
 <div style="background-color: #000000; padding: 20px; border-radius: 5px;">
 
@@ -77,9 +81,10 @@
 
 </div>
 
+
 <div style="background-color: #000000; padding: 10px; border-radius: 5px;">
 
-## 📈 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
 
 <p align="center">
  <!-- Activity Graph -->
@@ -99,27 +104,43 @@
 
 </div>
 
-<div style="background-color: #000000; padding: 10px; border-radius: 5px;">
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amdadislam01&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
-</div>
 
 <div style="background-color: #000000; padding: 10px; border-radius: 5px;">
 
-## 🔥 Recent Activity
+<!-- Current Focus -->
 
-<!--START_SECTION:activity-->
-1. 🎉 Created my GitHub Profile README
-2. 🚀 Started a new project
-3. 🔥 Pushed first commit
-<!--END_SECTION:activity-->
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28">  Current Focus
+
+```typescript
+const amdad: Developer = {
+  code: ["JavaScript", "TypeScript", "PHP", "Python"],
+  
+  focus: "Building modern, scalable full-stack web applications",
+  
+  technologies: {
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "Next.js API Routes", "PHP"],
+    database: ["MongoDB", "MySQL"],
+    auth: ["JWT", "Firebase", "Clerk"],
+    tools: ["Git", "GitHub", "VS Code", "Vercel", "Netlify"]
+  },
+  
+  architecture: ["MVC", "REST API", "SPA"],
+  
+  currentLearning: [
+    "Advanced JavaScript",
+    "Next.js (App Router)",
+    "Backend Optimization"
+  ],
+  
+  currentProject: "Building SaaS & Real-world Full Stack Projects",
+  
+  funFact: "I debug with console.log — and yes, it always works 😄"
+};
+```
 
 </div>
+
 
 <div style="background-color: #000000; padding: 10px; border-radius: 5px;">
 
